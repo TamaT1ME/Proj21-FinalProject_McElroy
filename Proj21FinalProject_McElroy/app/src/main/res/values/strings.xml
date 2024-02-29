@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Proj21-FinalProject_McElroy</string>
+    <string name="about_me_title">About Me</string>
+    <string name="about_me_text">Hello, I am MJ, or Morgan. I am a beginner in the field, looking for work that I can do part-time to gain more experience as a digital artist and website developer. Self-advocacy is one of my top communicative skills, along with displaying mature and professional conduct. I hope to learn more skills along the way so I can further grow my career in the future. I have taken Business Management and Marketing as a 2-year high school CTE course. As well, I am certified in Python, JavaScript, HTML/CSS, and Microsoft Word. In middle school, I took part in Model UN and choir, with a huge love for the fine arts.\n\nEver since I was little, I have been fascinated with many different things, from weather predicting, track and field, all the way down to singing. The few consistent interests I have kept through the years are art, technology, and video games. I was always looking to understand why everything worked the way it did, even down to jailbreaking and inspecting the OS workings of my old Samsung Galaxy S III. On top of that, at around 14, I was given a Macbook Air as a gift and almost immediately switched its OS to Ubuntu, for the better mobile-to-computer compatibility that I needed.</string>
+    <string name="contact_title">Contact Me</string>
+    <string name="contact_text">(480) 287-7804\n\nmmcelroy1203@gmail.com</string>
+    <string name="education_title">Education</string>
+    <string name="education_text">East Valley Institute of Technology, Mesa AZ — Career and Technical School\nAugust 2022 - Graduation May 2024\n\nCactus Shadows High School, Cave Creek AZ — High School Diploma\nAugust 2018 - Graduated May 2023 — GPA 3.2</string>
+    <string name="portfolio_text">This is a github portfolio containing some of the works I have completed so far, and is to be updated as I create more in the near future.</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_email">Your Email</string>
+    <string name="your_message">Your Message</string>
+    <string name="submit">Submit</string>
+
+</resources>
